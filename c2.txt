@@ -1,1 +1,1 @@
-This is a file added for commit c1.
+This is a file modified for commit c2.
