@@ -22,3 +22,7 @@ Activity 5:
 
 Activity 6: 
 EP Repo Link: https://github.com/SRKX0A/ECE444-F2022-EP
+
+Activity 7:
+![ScreenshotOfEducationPathwaysRebase](https://user-images.githubusercontent.com/44185385/190838187-b65791e4-2830-421f-9101-2e15aaf465ab.png)
+![ScreenshotOfChangedHomepage](https://user-images.githubusercontent.com/44185385/190838191-91579fba-25bf-481b-a9b3-276ee2bfa3db.png)
