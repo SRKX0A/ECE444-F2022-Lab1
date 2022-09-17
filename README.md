@@ -26,3 +26,7 @@ EP Repo Link: https://github.com/SRKX0A/ECE444-F2022-EP
 Activity 7:
 ![ScreenshotOfEducationPathwaysRebase](https://user-images.githubusercontent.com/44185385/190838187-b65791e4-2830-421f-9101-2e15aaf465ab.png)
 ![ScreenshotOfChangedHomepage](https://user-images.githubusercontent.com/44185385/190838191-91579fba-25bf-481b-a9b3-276ee2bfa3db.png)
+
+Activity 8:
+![ScreenshotOfNewTabAndNameRebase](https://user-images.githubusercontent.com/44185385/190838277-d14a9994-69a6-4dfa-9bd2-3f09cf64ff69.png)
+![ScreenshotOfNewTabAndName](https://user-images.githubusercontent.com/44185385/190838279-069c752c-797d-4008-96fb-9ea6b34ace3f.png)
