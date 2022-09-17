@@ -15,3 +15,7 @@ Activity 4:
 Link to partner's repo: https://github.com/talukder-sowrov/ECE444-F2022-Lab1
 ![ScreenshotOfMyRepo](https://user-images.githubusercontent.com/44185385/190815676-4b4d8ae2-dcb1-45d7-82fd-62f6abddbf6d.png)
 ![ScreenshotOfPushToAnotherRepo](https://user-images.githubusercontent.com/44185385/190815706-0eed55d9-8997-4000-ae71-29a8bdc79aad.png)
+
+Activity 5:
+
+![ScreenshotOfSuccessfulRebase](https://user-images.githubusercontent.com/44185385/190837946-754c523f-40d2-4e12-8a89-7f0687de7f1f.png)
