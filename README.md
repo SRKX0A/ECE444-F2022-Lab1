@@ -19,3 +19,6 @@ Link to partner's repo: https://github.com/talukder-sowrov/ECE444-F2022-Lab1
 Activity 5:
 
 ![ScreenshotOfSuccessfulRebase](https://user-images.githubusercontent.com/44185385/190837946-754c523f-40d2-4e12-8a89-7f0687de7f1f.png)
+
+Activity 6: 
+EP Repo Link: https://github.com/SRKX0A/ECE444-F2022-EP
